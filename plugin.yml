@@ -1,7 +1,7 @@
 name: KotyoChatTranslate
 main: mincra.chattranslate.main.MincraChatTranslate
 version: 1.03
-website: https://kotyopuwwwwww.github.io/my-pfp-en/
+website: https://babblingkun.github.io/profile-en/
 author: kotyopuwwwwww
 commands:
      translate:
