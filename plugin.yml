@@ -1,0 +1,20 @@
+name: KotyoChatTranslate
+main: mincra.chattranslate.main.MincraChatTranslate
+version: 1.03
+website: https://kotyopuwwwwww.github.io/my-pfp-en/
+author: kotyopuwwwwww
+commands:
+     translate:
+      usage: /translate on/off
+     jp:
+      description: This is a demo command.
+      usage: /jp <message>
+     eng:
+      description: This is a demo command.
+      usage: /en <message>
+     ge:
+      description: This is a demo command.
+      usage: /de <message>
+     fr:
+      description: This is a demo command.
+      usage: /fr <message>
