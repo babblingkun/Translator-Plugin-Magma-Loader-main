@@ -7,4 +7,8 @@ translator-plugin-Magma-loader 1.12.2 1.16.5 1.18.2  1.20.1
 
 ## Credits
 
-🌺 babblingkun
+🌺 
+
+
+
+😎 now port making NeoForge Mod loder
