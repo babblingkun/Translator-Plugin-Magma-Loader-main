@@ -11,5 +11,5 @@ BabblingKun (kotyopuwwwwww)🌺
 
 
 
-😎 now port making Fabric Mod loder
+😎 now port making Fabric Mod loader
 🫤 so neoforge can use...?
